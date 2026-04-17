@@ -1,4 +1,4 @@
-<h1>CycleSense: Predictive Health Analytics & Context-Aware Tracking <h1> <br>
+<h1> CycleSense: Predictive Health Analytics & Context-Aware Tracking </h1> <br>
 CycleSense is a full-stack, data-driven FemTech web application engineered to solve the friction between mathematical predictions and biological realities.
 
 Traditional health tracking applications frequently rely on rigid forecasting algorithms that punish natural biological variance, often inducing anxiety by forcing cycle resets or flashing "Late" warnings. CycleSense solves this by decoupling the backend data state from the frontend user interface. By introducing an optimistic "Extended Luteal" masking layer and a context-aware AI chatbot, the application dynamically adapts to the user's real-time physiological state.
