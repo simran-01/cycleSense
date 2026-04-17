@@ -15,7 +15,8 @@ Phase-Mapped Lifestyle Engine: Dynamically renders highly specific Skincare, Exe
 Robust Anomaly Detection (The "20-Day Rule"): The backend pipeline mathematically filters out mid-cycle spotting and data-entry errors to ensure predictive baselines are calculated using statistically pure medians, not skewed arithmetic means.
 
 💻 System Architecture & Tech Stack
-This project leverages a serverless cloud infrastructure designed for secure, scalable data handling:
+This project leverages a serverless cloud infrastructure designed for secure, scalable data<img width="2816" height="1536" alt="Gemini_Generated_Image_nerfh2nerfh2nerf" src="https://github.com/user-attachments/assets/a30f0e7f-8e6d-4854-9b65-29e280505356" />
+ handling:
 
 Frontend: React.js, Tailwind CSS, hosted on Firebase.
 
@@ -27,3 +28,11 @@ Cloud Security: Google Cloud IAM (Application Default Credentials and Service Ac
 
 📊 The Data Model
 A unique strength of CycleSense is its foundation. The predictive model was engineered, trained, and tested using a continuous 5+ year dataset of genuine historical cycle data exported from the Clue app. Handling a real-world dataset ensured the statistical forecasting model (utilizing rolling medians rather than means) was rigorously tested against actual human biological fluctuations, stress-induced delays, and missing data points.
+
+<img width="2217" height="1328" alt="Screenshot 2026-04-17 7 54 02 PM" src="https://github.com/user-attachments/assets/f045ff7b-d012-49c4-8560-a07b4d203d49" />
+<img width="2217" height="1328" alt="Screenshot 2026-04-17 7 55 12 PM" src="https://github.com/user-attachments/assets/c78f5369-d313-4224-9d45-d2ad1a017218" />
+<img width="2217" height="1328" alt="Screenshot 2026-04-17 7 53 56 PM" src="https://github.com/user-attachments/assets/5a4d5395-dd8b-4ce9-a70d-307ddc7ef0c9" />
+<img width="2217" height="1328" alt="Screenshot 2026-04-17 7 55 26 PM" src="https://github.com/user-attachments/assets/8f13a8b5-a81a-4431-be6c-4d45c4f30f35" />
+<img width="2217" height="1328" alt="Screenshot 2026-04-17 7 53 48 PM" src="https://github.com/user-attachments/assets/b8308934-bd83-4e5b-a7ad-a8011c5afa72" />
+<img width="1822" height="1328" alt="Screenshot 2026-04-17 7 53 30 PM" src="https://github.com/user-attachments/assets/76feea66-3090-4421-afba-a72eee75951d" />
+
